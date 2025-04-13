@@ -12,6 +12,6 @@ There are 7 do files of which the names are self-explanatory.
 
 Sources of data (check Appendix A of the paper):
 
-Elo-ratings: elofootball.com
+Elo-ratings: www.elofootball.com
 Match outcome data: www.football-data.co.uk
 Bookmaker odds: www.football-data.co.uk 
